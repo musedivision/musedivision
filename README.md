@@ -4,8 +4,8 @@
 Experience:
 
 * Machine Learning Engineer - [Imagr](https://imagr.co/)
-* Javascript Developer  - [Accordo](https://accordo.com/)
-* Javascript Developer - [Forsite](https://getforsite.com/)
+* Intermediate Software Engineer  - [Accordo](https://accordo.com/)
+* Software Engineer - [Forsite](https://getforsite.com/)
 
 
 Projects:
